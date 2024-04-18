@@ -42,6 +42,6 @@ mod tests {
             generate_nametag_text("".into()),
             // Don't change this line
             Err("`name` was empty; it must be nonempty.".into())
-        );
+         );
     }
 }
