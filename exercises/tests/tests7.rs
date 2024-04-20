@@ -33,7 +33,7 @@
 //
 // Execute `rustlings hint tests7` or use the `hint` watch subcommand for a
 
-pub(crate) fn main() {}
+fn main() {}
 
 #[cfg(test)]
 mod tests {
